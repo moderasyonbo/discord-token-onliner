@@ -1,4 +1,4 @@
-Selamlar,bu uygulamanın kurulumunu adımdır;
+Selamlar,bu uygulamanın kurulumunu böyledir;
 İlk olarak bilgisayarınıza Node.js uygulamasını kurun.
 Kurduktan sonra tokens.txt dosyasına tokenlerinizi girin.
 Örnek:
